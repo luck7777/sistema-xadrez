@@ -38,7 +38,6 @@ public class Program {
 				System.out.println(msg.getMessage());
 				sc.nextLine();
 			}
-
 		}
 	}
 }
